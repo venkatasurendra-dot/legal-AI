@@ -1,0 +1,6 @@
+{
+  "name": "LegalAI India",
+  "description": "AI-Powered Indian Legal Assistant for Constitution, Acts, Courts, Procedures, and Legal Research.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
